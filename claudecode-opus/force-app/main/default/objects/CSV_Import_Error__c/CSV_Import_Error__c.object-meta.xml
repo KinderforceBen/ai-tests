@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <label>CSV Import Error</label>
+    <nameField>
+        <displayFormat>ERR-{0000000}</displayFormat>
+        <label>Error Number</label>
+        <type>AutoNumber</type>
+    </nameField>
+    <pluralLabel>CSV Import Errors</pluralLabel>
+    <sharingModel>ReadWrite</sharingModel>
+</CustomObject>
